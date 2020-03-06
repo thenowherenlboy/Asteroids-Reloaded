@@ -1,5 +1,6 @@
 ﻿#NOTE: file must be saved with "UTF-8" encoding
 #Example "fr" French translation
+#Your mom is french
 
 title=ASTEROIDS
 please-wait=S'il vous plaît patienter ... Chargement d'images ...
